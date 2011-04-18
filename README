@@ -1,0 +1,5 @@
+This program was written as the first assignment for my Concurrent Programming
+class, ITC527. For a detailed description of the program see Assignment 1.pdf
+
+A threaded Java application that shows brownian motion in particles with a
+thread per object model.
